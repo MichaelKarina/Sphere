@@ -21,12 +21,15 @@ Welcome to the Rotating Sphere with Starry Background project! This interactive 
 
 ## 🎨 Preview
 
-![Rotating Sphere with Starry Background](link-to-your-image)
+![Rotating Sphere with Starry Background](https://github.com/MichaelKarina/Sphere/blob/main/Image/Screenshot%202024-08-05%20231937.png)
 
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/MichaelKarina?tab=repositories)
+ 
+## 📬 Contact
 
-## 📄 License
+Have questions or want to collaborate? Reach out to me:
 
-This project is licensed under the MIT License. See the [LICENSE](link-to-license) file for details.
+- **Email**: [your-email@example.com](mikekarina68@gmail.com)
+- **GitHub Profile**: [your-github-profile](https://github.com/MichaelKarina)
