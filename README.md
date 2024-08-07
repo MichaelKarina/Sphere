@@ -29,7 +29,12 @@ Welcome to the Rotating Sphere with Starry Background project! This interactive 
  
 ## 📬 Contact
 
-Have questions or want to collaborate? Reach out to me:
+<details>
+  <summary>Click to reveal contact information</summary>
+  
+  If you have any questions or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mikekarina68@gmail.com)
-- **GitHub Profile**: [your-github-profile](https://github.com/MichaelKarina)
+  - **Email**: [mikekarina68@gmail.com](mailto:mikekarina68@gmail.com)
+  - **GitHub Profile**: [MichaelKarina](https://github.com/MichaelKarina)
+
+</details>
